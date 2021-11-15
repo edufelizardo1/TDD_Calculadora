@@ -12,7 +12,14 @@
 [![GitHub forks](https://img.shields.io/github/forks/edufelizardo1/Cucumber_Locadora)](https://github.com/edufelizardo1/TDD_Calculadora/network)
 [![GitHub stars](https://img.shields.io/github/stars/edufelizardo1/Cucumber_Locadora)](https://github.com/edufelizardo1/TDD_Calculadora/stargazers)
 [![Generic badge](https://img.shields.io/static/v1?label=build&message=success&color=<COLOR>)]()
-
+***
+### ***FIRST***
+* **F**ast
+* **I**ndependent
+* **R**epeatable
+* **S**elf-verifying
+* **T**imely
+***
 ![alt text](https://github.com/edufelizardo1/TesteUnitariosJUnitLocadora/blob/main/src/main/resources/img/TDD_1.jpg?raw=true)
 
 São testes Simples que procuram entender a funcionalidade dos testes desenvolvidos com ***JUnit***. Também tem como ituíto otimizar
